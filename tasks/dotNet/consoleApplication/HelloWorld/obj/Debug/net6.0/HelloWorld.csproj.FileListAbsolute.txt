@@ -1,0 +1,15 @@
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Source\Git\myTraining\DOCKER-ANALYSIS-AND-TASKS\DOCKER-ANALYSIS-AND-TASKS\tasks\dotNet\consoleApplication\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
