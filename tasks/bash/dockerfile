@@ -1,0 +1,9 @@
+FROM ubuntu:latest
+
+RUN apt-get update && \
+    apt-get install -y fortune cowsay
+
+COPY myscript.sh /
+RUN chmod +x /myscript.sh
+
+CMD ["/myscript.sh"]
