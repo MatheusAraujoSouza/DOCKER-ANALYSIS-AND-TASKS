@@ -1,9 +1,6 @@
-FROM ubuntu:latest
+FROM debian
+RUN apt-get update && apt-get install -y cowsay fortune
+COPY run.sh /
+RUN chmod +x /run.sh
 
-RUN apt-get update && \
-    apt-get install -y fortune cowsay
-
-COPY myscript.sh /
-RUN chmod +x /myscript.sh
-
-CMD ["/myscript.sh"]
+ENTRYPOINT ["/run.sh"]
