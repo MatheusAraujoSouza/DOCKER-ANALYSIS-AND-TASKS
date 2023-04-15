@@ -2,5 +2,5 @@ FROM debian
 RUN apt-get update && apt-get install -y cowsay fortune
 COPY run.sh /
 RUN chmod +x /run.sh
-
+CMD ["Goodbye","World!!!"]
 ENTRYPOINT ["/run.sh"]
