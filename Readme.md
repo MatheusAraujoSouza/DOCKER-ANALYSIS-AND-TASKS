@@ -24,6 +24,6 @@ This directory contains a Dockerfile and script for practical with cowsay docker
 This repository is licensed under the MIT License. Feel free to use and modify the code as you see fit.
 
 Credits
-This repository is maintained by [Your Name]. If you have any questions or suggestions, feel free to contact me at [your.email@example.com].
+This repository is maintained by Matheus Souza. If you have any questions or suggestions, feel free to contact me at mhatheussss@gmail.com.
 
 Happy Dockerizing!
