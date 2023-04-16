@@ -1,4 +1,4 @@
-#Real-world analogy for a host machine.
+# Real-world analogy for a host machine.
 
 In the context of computing, a host machine can be thought of as the physical server or computer that is responsible for running one or more virtual machines or containers.
 

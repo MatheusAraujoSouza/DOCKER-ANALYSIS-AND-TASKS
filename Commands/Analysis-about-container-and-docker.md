@@ -1,0 +1,7 @@
+The containers can be thought of as rooms in a hotel, while the applications running inside them are the guests. In other words, containers are the isolated environments where applications run, and the applications themselves are the processes running inside those environments.
+
+Containers provide a consistent, isolated environment for applications to run in, which means that applications can run in different containers with different dependencies without interfering with each other. Just like guests in a hotel can have different preferences and needs, applications running in different containers can have different requirements and dependencies, and the containers provide a way to accommodate those differences.
+
+Furthermore, containers are designed to be lightweight and portable, which means they can be moved easily between different host machines without requiring any changes to the application code or configuration. This is similar to how hotel guests can move between different rooms or even different hotels without needing to bring all their belongings with them or make any major adjustments.
+
+Overall, containers provide a flexible and scalable way to run applications in a consistent and isolated environment, similar to how a hotel provides a convenient and accommodating place for guests to stay.
