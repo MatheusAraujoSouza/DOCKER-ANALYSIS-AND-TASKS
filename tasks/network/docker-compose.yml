@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  app1:
+    build: ./app1
+    ports:
+      - "3000:3000"
+    networks:
+      - mynetwork
+  app2:
+    build: ./app2
+    ports:
+      - "4000:4000"
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
