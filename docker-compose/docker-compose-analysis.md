@@ -47,3 +47,4 @@ networks:
 ```
 
 In this example, we have two services: web and db. web is built using the Dockerfile in the current directory (.), and exposes port 80 on the container as port 8080 on the host. It also sets the DEBUG environment variable to 1 and mounts the current directory as a volume inside the container. db uses the postgres image and mounts a volume for persistent data storage. It also sets the POSTGRES_PASSWORD environment variable to password. Finally, we have a volume called db-data, which is used by the db service, and a network called my-network, which is defined externally.
+
