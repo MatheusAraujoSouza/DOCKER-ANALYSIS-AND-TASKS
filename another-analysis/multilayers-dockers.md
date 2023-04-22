@@ -1,3 +1,5 @@
+## A simple talk about multilayers in docker
+
 Docker uses a layered file system to store images. Each layer is built on top of the previous layer and contains only the differences from the previous layer. This approach allows for efficient use of storage space and faster image transfer between systems.
 
 In a Dockerfile, you can define multiple stages, each of which can have a different base image. Each stage starts with a FROM command, which specifies the base image for that stage. Any subsequent RUN, COPY, or CMD commands apply to that stage and are saved as a new layer. Each stage is independent of the others and has its own set of layers.
@@ -155,3 +157,10 @@ We can't use the node:14 or mongo:4.2 images directly in the third stage because
 
 To summarize, each stage in a Dockerfile is independent and has its own base image. Each stage starts with a fresh layer stack, but we can use resources from previous stages using the COPY --from flag. We can't access commands or layers from previous stages directly, but we can copy resources from them.
 
+## Analogy about multilayers in real world
+
+An analogy for Docker layers and images could be building a house. Each layer in a Docker image can be compared to a construction phase of a house. For example, the foundation layer can be compared to the foundation of the house, the framing layer to the structure of the house, and the finishing layer to the interior and exterior finishing touches of the house.
+
+Just as each construction phase in a house builds upon the previous phase, each layer in a Docker image builds upon the previous layer. Each layer adds new functionality and dependencies to the image, just as each construction phase adds new features and functionality to the house.
+
+Just as you can reuse certain elements in different houses, Docker images can reuse certain layers from other images. This can save time and resources, much like using pre-fabricated building materials in construction.
